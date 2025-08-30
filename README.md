@@ -100,6 +100,6 @@ Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
   <summary>Contact</summary>
   <ul>
     <li>GitHub: <a href="https://github.com/Siddu230">Siddu230</a></li>
-    <li>Email: [your-email-here]</li>
+    <li>Email: naidunani1122.11@gmail.com </li>
   </ul>
 </details>
